@@ -1,35 +1,54 @@
-# Simpleyyt
+# Jekyll Metro
 
-My blog based on Jekyll-Bootstrap.
+Jekyll Metro is a metro inspired theme for [Jekyll](http://jekyllrb.com).
 
-## About Jekyll-Bootstrap
+## Summary
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+Jekyll Metro is a theme built on top of bootstrap and other freely available libraries. Its aimed to provide a fully furnished Jekyll theme for personal sites with blog. 
 
-## About theme
+## Version 1.0 Development
 
-This theme is the copy of [elementaryOS](http://elementaryos.org) portal page. Some features are imperfect, but I will make it more perfect.
+Head to [development branch](https://github.com/olakara/JekyllMetro/tree/development1.0) for bleeding edge. This is current development branch. The release is planned for end of April 2015.
+New features include:
+- Light box feature
+- Social media share widget
+- New colors
 
-## Usage
+This release will include lots of code clean up and optimizations in CSS, JS and HTML.
 
-You can edit the `_config.yml` file to change the setting of site. If you want to change avatar or favicon, just replace the files in `assets\themes\Snail\img`.
+## Features
 
-## About excerpt
+- Responsive Jekyll theme
+- Metro style Homepage
+  - Configurable tiles with different size
+  - Configurable colors for tiles
+  - Display of Latest and Recent articles as tiles
+- Pages for About Me, Resume with configurable color themes
+- Blog home page with listing of articles in pagination
+- Blog article page with configurable color themes
+- Easy integration with Google Analytics
+- Easy integration with Disqus for comments
 
-There are 2 ways of excerpt: "teaser" and "truncate_words" (Configurated in _config.yml).
+## Demo
 
- * "teaser": look for the More tag (<!--more-->) and create a teaser from the content that precedes the More tag.
-You must place "<!--more-->" at paragraph in post. The whole content will be displayed in homepage if no More tag found in post.
+You can see the live demo of this theme at [http://blog-olakara.rhcloud.com](http://blog-olakara.rhcloud.com)
 
- * "truncate_words": generate an excerpt automatically by selecting the first 20 words of the post. It doesn't work well in some of no-English post.
+## Author
 
-## Change Log
+**[Abdel Raoof Olakara](http://abdelraoof.com)**
 
- * Add pagination.
- * Add new way of excerpt.
- * Download google fonts to the local.
- * Add google custom search engine.
+
+## Contributors
+
+**Stilyan Kongalov**
+- <https://github.com/Stilyan-Kangalov>
+
+**Peter Zhu**
+- <https://github.com/ZhuFengdaaa>
+
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+Open sourced under the [MIT license](LICENSE.md).
+
+<3
