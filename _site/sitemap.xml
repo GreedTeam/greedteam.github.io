@@ -49,7 +49,7 @@
     
     
     <url>
-        <loc>http://greedteam.github.io/tags/SharePoint/</loc>
+        <loc>http://greedteam.github.io/blog/</loc>
     </url>
     
     
@@ -57,7 +57,7 @@
     
     
     <url>
-        <loc>http://greedteam.github.io/</loc>
+        <loc>http://greedteam.github.io/search/</loc>
     </url>
     
     
@@ -73,7 +73,7 @@
     
     
     <url>
-        <loc>http://greedteam.github.io/tags/</loc>
+        <loc>http://greedteam.github.io/</loc>
     </url>
     
     
@@ -81,7 +81,15 @@
     
     
     <url>
-        <loc>http://greedteam.github.io/blog/</loc>
+        <loc>http://greedteam.github.io/tags/SharePoint/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://greedteam.github.io/tags/</loc>
     </url>
     
     
@@ -114,6 +122,14 @@
     
     <url>
         <loc>http://greedteam.github.io/search.json</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://greedteam.github.io/search/search.json</loc>
     </url>
     
     

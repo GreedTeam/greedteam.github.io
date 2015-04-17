@@ -25,7 +25,8 @@ navigation:
   url: /tags/
 - text: Archive
   url : /archive/
-
+- text: Search 
+  url : /search/
 
 # Author Details
 author:         'GreedTeam'
@@ -46,7 +47,7 @@ footersvg: 'true'
 
 footer-links:
   dribbble:
-  email: None
+  email: 'gaoxuefeng@360.cn'
   facebook:
   flickr:
   github:
@@ -55,6 +56,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   google: None
+  weibo: '360GreedTeam' 
   twitter: None
   stackoverflow: #users/4388898/peter-zhu # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
