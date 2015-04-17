@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Video 
-description: Video of Abdel Raoof
+description: Video of GreedTeam
 theme: red
 ---
 Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
