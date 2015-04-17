@@ -3,10 +3,10 @@
   <channel>
     <title>GreedTeam</title>
     <description>Blog using Jekyll Metro</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 17 Apr 2015 19:11:23 +0800</pubDate>
-    <lastBuildDate>Fri, 17 Apr 2015 19:11:23 +0800</lastBuildDate>
+    <link>http://greedteam.github.io/</link>
+    <atom:link href="http://greedteam.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 18 Apr 2015 01:43:07 +0800</pubDate>
+    <lastBuildDate>Sat, 18 Apr 2015 01:43:07 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@ Creating a post by using a blog creation and publishing tool that is compatible 
 &lt;p&gt;By default, blogs are set up so that approval is required before posts are published. This can be helpful if numerous people are publishing content, or if a post could contain sensitive content. By default, people who have permission to manage lists can approve blog posts, but you can customize those settings.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Jan 2015 23:30:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/2015/01/07/Test-Test-post</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2015/01/07/Test-Test-post</guid>
+        <link>http://greedteam.github.io/blog/2015/01/07/Test-Test-post</link>
+        <guid isPermaLink="true">http://greedteam.github.io/blog/2015/01/07/Test-Test-post</guid>
         
         <category>OSX</category>
         
@@ -59,8 +59,8 @@ Creating a post by using a blog creation and publishing tool that is compatible 
 &lt;p&gt;By default, blogs are set up so that approval is required before posts are published. This can be helpful if numerous people are publishing content, or if a post could contain sensitive content. By default, people who have permission to manage lists can approve blog posts, but you can customize those settings.&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Jul 2014 23:30:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/2014/07/07/another-sharepoint-post</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2014/07/07/another-sharepoint-post</guid>
+        <link>http://greedteam.github.io/blog/2014/07/07/another-sharepoint-post</link>
+        <guid isPermaLink="true">http://greedteam.github.io/blog/2014/07/07/another-sharepoint-post</guid>
         
         <category>SharePoint</category>
         
@@ -116,8 +116,8 @@ not be indented with tabs or spaces. Markdown is smart enough not
 to add extra (unwanted) &lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt; tags around HTML block-level tags.&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Jun 2014 07:30:58 +0800</pubDate>
-        <link>http://localhost:4000/blog/2014/06/25/markdown-basics</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2014/06/25/markdown-basics</guid>
+        <link>http://greedteam.github.io/blog/2014/06/25/markdown-basics</link>
+        <guid isPermaLink="true">http://greedteam.github.io/blog/2014/06/25/markdown-basics</guid>
         
         <category>Design</category>
         
@@ -316,8 +316,8 @@ which you wish to be displayed literally, ex.: `foo`, *bar*, etc.&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 25 Jun 2014 07:28:58 +0800</pubDate>
-        <link>http://localhost:4000/blog/2014/06/25/another-sample-markdown</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2014/06/25/another-sample-markdown</guid>
+        <link>http://greedteam.github.io/blog/2014/06/25/another-sample-markdown</link>
+        <guid isPermaLink="true">http://greedteam.github.io/blog/2014/06/25/another-sample-markdown</guid>
         
         <category>Design</category>
         
@@ -346,8 +346,8 @@ Adjusting quiver and bow, Zompyc[1] killed the fox. My faxed joke won a pager in
 Amazingly few discotheques provide jukeboxes. My girl wove six dozen plaid jackets before she quit. Six big devils from Japan quickly forgot how they won the game&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Jun 2014 05:28:58 +0800</pubDate>
-        <link>http://localhost:4000/blog/2014/06/24/a-sample-pangram</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2014/06/24/a-sample-pangram</guid>
+        <link>http://greedteam.github.io/blog/2014/06/24/a-sample-pangram</link>
+        <guid isPermaLink="true">http://greedteam.github.io/blog/2014/06/24/a-sample-pangram</guid>
         
         <category>Sample</category>
         
@@ -375,8 +375,8 @@ Amazingly few discotheques provide jukeboxes. My girl wove six dozen plaid jacke
 &lt;p&gt;Fire up your SharePoint Designer and you should get a clean start.&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Oct 2013 23:30:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/2013/10/11/clearing-sharepoint-designer-cache</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2013/10/11/clearing-sharepoint-designer-cache</guid>
+        <link>http://greedteam.github.io/blog/2013/10/11/clearing-sharepoint-designer-cache</link>
+        <guid isPermaLink="true">http://greedteam.github.io/blog/2013/10/11/clearing-sharepoint-designer-cache</guid>
         
         <category>SharePoint</category>
         
@@ -458,8 +458,8 @@ Amazingly few discotheques provide jukeboxes. My girl wove six dozen plaid jacke
 &lt;p&gt;These steps should ensure that you get your PerformancePoint service up and running.&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Apr 2013 23:30:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/2013/04/20/dashboard-designer-cannot-connect-to-performancepoint</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2013/04/20/dashboard-designer-cannot-connect-to-performancepoint</guid>
+        <link>http://greedteam.github.io/blog/2013/04/20/dashboard-designer-cannot-connect-to-performancepoint</link>
+        <guid isPermaLink="true">http://greedteam.github.io/blog/2013/04/20/dashboard-designer-cannot-connect-to-performancepoint</guid>
         
         <category>SharePoint</category>
         
