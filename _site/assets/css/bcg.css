@@ -40,14 +40,14 @@
 	background-repeat: no-repeat;
 }
 
-.gl-ico {
-	background-image: url('/assets/images/gl_ico.png');
+.wb-ico {
+	background-image: url('/assets/images/wb_ico.png');
 	background-position: center;
 	background-repeat: no-repeat;
 }
 
-.gl-ico-sm {
-	background-image: url('/assets/images/gl_ico_sm.png');
+.wb-ico-sm {
+	background-image: url('/assets/images/wb_ico_sm.png');
 	background-position: center;
 	background-repeat: no-repeat;
 }
