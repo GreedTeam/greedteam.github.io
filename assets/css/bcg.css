@@ -52,6 +52,19 @@
 	background-repeat: no-repeat;
 }
 
+
+.se-ico {
+	background-image: url('/assets/images/se_ico.png');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.se-ico-sm {
+	background-image: url('/assets/images/se_ico_sm.png');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
 .tw-ico {
 	background-image: url('/assets/images/tw_ico.png');
 	background-position: center;
