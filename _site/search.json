@@ -1,4 +1,10 @@
 [{
+"title"    : "Test Test post",
+"category" : "",
+"tags"	   : "OSX and iOS",
+"url"      : "/blog/2015/01/07/Test-Test-post",
+"date"     : "January 07, 2015"}
+,{
 "title"    : "Another Sharepoint post",
 "category" : "",
 "tags"	   : "SharePoint and Designer",

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hi, I am Abdel Raoof Olakara
-description: About Me page of Abdel Raoof
+title: Hi, We are iOS Hacker
+description: About Us page of GreedTeam 
 theme: purple
 ---
 
