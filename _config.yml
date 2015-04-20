@@ -57,7 +57,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   google: None
   weibo: '360GreedTeam' 
-  twitter: None
+  twitter: 
   stackoverflow: #users/4388898/peter-zhu # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Disqus
