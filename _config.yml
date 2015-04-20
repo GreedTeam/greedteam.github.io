@@ -8,8 +8,8 @@ permalink:        /blog/:year/:month/:day/:title
 
 # Setup
 title:            'GreedTeam'
-tagline:          'A Metro theme for Jekyll'
-description:      'Blog using Jekyll Metro'
+tagline:          'We are Hackers for iOS'
+description:      'Blog about iOS Security'
 url:              'http://greedteam.github.io'
 baseurl:          ''
 

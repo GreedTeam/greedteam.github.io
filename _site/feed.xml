@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GreedTeam</title>
-    <description>Blog using Jekyll Metro</description>
+    <description>Blog about iOS Security</description>
     <link>http://greedteam.github.io/</link>
     <atom:link href="http://greedteam.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 20 Apr 2015 10:40:58 +0800</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2015 10:40:58 +0800</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2015 11:35:02 +0800</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2015 11:35:02 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
