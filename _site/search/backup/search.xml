@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<articles>
+    
+    <article>
+        <title>Test Test post</title>
+        <url>http://greedteam.github.io/blog/2015/01/07/Test-Test-post</url>
+        <date>2015-01-07</date>
+        <category></category>
+		<tags>OSX and iOS</tags>
+    </article>
+    
+    <article>
+        <title>Another Sharepoint post</title>
+        <url>http://greedteam.github.io/blog/2014/07/07/another-sharepoint-post</url>
+        <date>2014-07-07</date>
+        <category></category>
+		<tags>SharePoint and Designer</tags>
+    </article>
+    
+    <article>
+        <title>Markdown basics</title>
+        <url>http://greedteam.github.io/blog/2014/06/25/markdown-basics</url>
+        <date>2014-06-25</date>
+        <category></category>
+		<tags>Design and Markdown</tags>
+    </article>
+    
+    <article>
+        <title>Another sample markdown</title>
+        <url>http://greedteam.github.io/blog/2014/06/25/another-sample-markdown</url>
+        <date>2014-06-25</date>
+        <category></category>
+		<tags>Design and Markdown</tags>
+    </article>
+    
+    <article>
+        <title>A Sample pangram</title>
+        <url>http://greedteam.github.io/blog/2014/06/24/a-sample-pangram</url>
+        <date>2014-06-24</date>
+        <category></category>
+		<tags>Sample and Pangram</tags>
+    </article>
+    
+    <article>
+        <title>Clearing SharePoint Designer Cache</title>
+        <url>http://greedteam.github.io/blog/2013/10/11/clearing-sharepoint-designer-cache</url>
+        <date>2013-10-11</date>
+        <category></category>
+		<tags>SharePoint and Designer</tags>
+    </article>
+    
+    <article>
+        <title>Cannot Connect to PerformancePoint Service</title>
+        <url>http://greedteam.github.io/blog/2013/04/20/dashboard-designer-cannot-connect-to-performancepoint</url>
+        <date>2013-04-20</date>
+        <category></category>
+		<tags>SharePoint and PerformancePoint Service</tags>
+    </article>
+    
+</articles>
